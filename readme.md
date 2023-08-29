@@ -1,6 +1,8 @@
 - Embeddings: Vector representation of the text. Number representation of the meaning of the text
 - Embeddings are stored in the Knowledge base
-- 
+
+### Demo
+![demo](images/demo.png)
 
 
 ### References
