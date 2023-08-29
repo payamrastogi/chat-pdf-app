@@ -1,8 +1,16 @@
 - Embeddings: Vector representation of the text. Number representation of the meaning of the text
 - Embeddings are stored in the Knowledge base
 
+### Run
+```shell
+streamlit run app.py
+```
+
+
 ### Demo
 ![demo](images/demo.png)
+
+
 
 
 ### References
